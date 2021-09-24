@@ -16,7 +16,7 @@ public class Helloword {
 		new Dog().say();
 		new Cat().say();
 		
-		System.out.println("Lucky you~"); // #master 체서 추가
+		System.out.println("Lucky you~"); // #mast 체서 추가
 	}
 
 }
