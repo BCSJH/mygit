@@ -8,6 +8,8 @@ public class Helloword {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world~");
 		System.out.println("Hello git~");
+		
+		
 		new Foo().sayFoo();
 	}
 
